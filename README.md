@@ -1,7 +1,7 @@
 # How-to-Make-Your-WordPress-Plugin-Extensible
 Example code from the "How to Make Your WordPress Plugin Extensible" article in Smashing Magazine
 
-## The Files
+## The Code / Example Plugins
 
 #### [non-extensible-example.php](https://github.com/bfintal/How-to-Make-Your-WordPress-Plugin-Extensible/blob/master/non-extensible-example.php)
 
